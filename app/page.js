@@ -1,5 +1,5 @@
 "use client"
-import Navbar from "@/components/Navbar";
+import Navbar from "../components/Navbar";
 import { GoogleGenAI } from "@google/genai";
 import { Plus, Send, User, Building, Mail, Phone, Link, Briefcase, FileText, X } from "lucide-react";
 import { useState } from "react";
